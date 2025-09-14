@@ -1,5 +1,5 @@
 # Lab 2: Branching and Merging
-
+(task 1 added)
 The main topic of this first lab activity is branching and merging in git.
 
 ## Resources and Acknowledgements
