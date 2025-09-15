@@ -153,7 +153,7 @@ ones have changes not yet committed.
 ### TASK 3 Additional Note
 
 When making a pull request, there may potentially be merge conflicts to resolve, as we saw in the
-previous task. GitHub as additional information about how its interface helps facilitate resolving such
+previous task. GitHub as  information about how its interface helps facilitate resolving such
 conflicts:
 
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github
