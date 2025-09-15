@@ -38,6 +38,7 @@ If you miss the lab and work on this after, you can use this URL though.
   - After, you can check `git status` or the Log tab of the Git tool window in IntelliJ to see
   that you are now on the `task_1` branch.
 
+Hello
 ---
 
 - [ ] Open the TODO tool window (`View -> Tool Windows -> TODO`) and click on the TASK 1 TODO listed.
